@@ -1,7 +1,3 @@
-/*  2024-02-28 04:30:00
-
-
-*/
 
 import React, { useEffect } from "react";
 import useEmblaCarousel from "embla-carousel-react";
